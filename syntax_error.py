@@ -1,0 +1,2 @@
+while b > 0.0
+    print(b)
